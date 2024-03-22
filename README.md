@@ -1,2 +1,2 @@
 # MODUL
-Berisi materi pembelajaran mata kuliah pengantar sistem digital
+Berisi materi pembelajaran mata kuliah Algoritma dan Struktur Data
